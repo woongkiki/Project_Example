@@ -9,7 +9,7 @@ class Api {
 
     this.state = {
       isLoading: false,
-      url: 'https://maumapp.cafe24.com',
+      url: 'https://kwk0001.cafe24.com',
       path: '/adm/api/',
       option: {
         method: 'POST',
